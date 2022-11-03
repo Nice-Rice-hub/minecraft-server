@@ -1,1 +1,1 @@
-minecraft-server:python discordbot.py
+minecraftserveraternosenkaku:python discordbot.py
