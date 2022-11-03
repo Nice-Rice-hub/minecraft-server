@@ -1,1 +1,1 @@
-discordbot:python discordbot.py
+minecraft-server:python discordbot.py
